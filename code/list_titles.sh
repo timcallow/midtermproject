@@ -2,7 +2,7 @@
 
 for i in recordings/longnow/Long_Now*/*.mp3; do
    # get the filename
-   base=$(basename "\$i");
+   base=$(basename "$i");
    # strip the extension
    base=${base%.mp3};
    # date as yyyy-mm-dd
