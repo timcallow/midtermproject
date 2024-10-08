@@ -7,3 +7,8 @@
 	path = midterm_project
 	url = ./midterm_project
 	datalad-id = b04b5936-01ef-4c4d-a57a-ec87c84efaef
+[submodule "input"]
+	path = input
+	url = https://github.com/datalad-handbook/iris_data.git
+	datalad-id = 5800e71c-09f9-11ea-98f1-e86a64c8054c
+	datalad-url = https://github.com/datalad-handbook/iris_data.git
